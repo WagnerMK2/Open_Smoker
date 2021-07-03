@@ -12,3 +12,6 @@ if you want 1 meat probe, populate onle one meat probe circuit. then select soft
 i want to have recipe instructions that are very generous in options.
 think if this then that options
 I.E. if either meat probe hits 170*f then move on a step.
+
+id like to use temp sensors that are from popular grill brands and maybe some that are industru=ial in nature so that they are easy to procure. probably use k type connectors for the grill temp probes and the 3.5mm jack style for the meat temp probes
+should look into sourcing silicon temp probe gromments for the grill body.
