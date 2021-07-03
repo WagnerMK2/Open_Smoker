@@ -1,0 +1,30 @@
+this document has the proposed recipe logic items and their descriptions
+
+clear terms....
+meat temp-optional meat temp probes
+grill temp-internal grill temp
+timer- it counts down
+
+
+
+use one grill temp probe for set temp
+use average of both grill temp probes for set temp
+use less or more of either grill temp probes for set temp
+compensate grill temp for ambient temp or amb pressure(requested vs target compensation)
+
+timer till next recipe step
+timer or meat temp first to next step
+timer and meat temp then next step
+
+OR set meat temp till next step
+BOTH set meat temp till next step
+
+next step at clock time? where do we get a stable clock? gps, time server, preset? battery powered on board RTC?
+
+
+
+
+error handling.
+
+what if next step depends on meat probe and we lose the meat probe (shorted,broken or unplugged)....... options are to maintain, stop, maintain and sound alarm etc
+
