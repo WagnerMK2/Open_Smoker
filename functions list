@@ -1,23 +1,29 @@
-funchtions wanted
+functions wanted
 
-core_min to function
+core_min options to function
 --------------------
 one grill temp probe
-ac auger output
-fan output
-ignitor output
-knob and buttons
+AC auger output (relay)
+AC fan output (relay)
+ignitor output (relay)
+knob and  nav buttons
+run an external screen (outdoor compatable)
 
 extra functions
 -----------------
-2 grill temp inputs
-2 meat temp inputs
-fan output
-ac auger =output
-ignitor output
+optional second grill temp input
+2 meat temp inputs both optional
+DC auger output
+DC fan output
+second ignitor output (maybe with short circuit auto switch over/ cut out)
 pellet hopper height input
-ambient temp input
-ambient pressure input
-pellet hopper shaker output
-web server for GUI
-
+pellet hopper shaker output. like a DC/AC motor with an offset weight
+ambient temp input, probably want an external sensor.
+ambient pressure input (just a chip on the board)
+web server for GUI, lots of fun to be had here.
+a module for IFTTT?
+a module for text sending
+functions for recipe action like (listing on external document)
+flame out protection to prevent exploding grill syndrome
+light tower outputs
+onboard RTC with battery
