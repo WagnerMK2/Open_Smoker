@@ -1,7 +1,13 @@
-board needs to be conformally coated
+board should to be conformally coated
 easily assembled, diagnosed and serviced
+-components no smaller that 0806?
 ample test points
 easy to load software and access the UART and JTAG
 2-4 layer board design
 external wifi antenna and internal antenna option
 fuse mounts dc and ac
+should spec K type thermo couple recepticals on the board
+knob needs to be detented knob with a push button
+
+maybe design the board in modules so that a user can remote mount sections of the device like the control knob
+-separate the knob and buttons? maybe screen too?
