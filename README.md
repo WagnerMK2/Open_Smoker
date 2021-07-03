@@ -1,4 +1,5 @@
-# bell_Transit
+# Open_Smoker
+
 an open source pellet grill controller
 
 i intend this to be an open source pellet grill controller.
